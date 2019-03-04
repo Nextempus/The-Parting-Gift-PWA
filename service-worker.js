@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tip-calculator';
+const CACHE_NAME = 'the-parting-gift-pwa';
 
 //Files to cache, skeleton of the app
 const urlsToCache = [
