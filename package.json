@@ -1,14 +1,14 @@
 {
-  "name": "tip-calculator",
+  "name": "the-parting-gift-pwa",
   "version": "0.0.1",
   "private": false,
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dkunin/tip-calculator.git"
+    "url": "git://github.com/nextempus/the-parting-gift-pwa.git"
   },
   "bugs": {
-    "url": "https://github.com/dkunin/tip-calculator/issues"
+    "url": "https://github.com/nextempus/the-parting-gift-pwa/issues"
   },
   "scripts": {
     "test": "echo test",
@@ -16,8 +16,6 @@
     "dev": "node ./",
     "build": "NODE_ENV=production node ./"
   },
-  "homepage": "https://github.com/dkunin/tip-calculator",
-  "keywords": [],
-  "license": "MIT",
-  "description": "> This is an example file with default selections."
+  "homepage": "https://github.com/nextempus/the-parting-gift-pwa",
+  "keywords": []
 }
