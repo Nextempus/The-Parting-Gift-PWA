@@ -36,9 +36,10 @@
 			"src": "./assets/icons/icon-384.png",
 			"sizes": "384x384",
 			"type": "image/png"
-		}
+		},
 		{
 			"src": "./assets/The Parting Gift.mp4"
+			"sizes": "1920x1080"
 			"type": "video/mpeg"
 		}
 	],
