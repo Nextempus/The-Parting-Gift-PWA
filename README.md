@@ -1,4 +1,6 @@
-# Tip Calculator
+# The Parting Gift
+
+This is the PWA redevelopment of the original The Parting Gift app.
 
 ## Contribute
 
@@ -6,4 +8,4 @@ PRs accepted.
 
 ## License
 
-MIT © Dmitri Kunin
+Power to Change Australia © Joshua Montzka
