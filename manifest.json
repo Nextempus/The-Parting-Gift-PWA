@@ -37,6 +37,10 @@
 			"sizes": "384x384",
 			"type": "image/png"
 		}
+		{
+			"src": "./assets/The Parting Gift.mp4"
+			"type": "video/mpeg"
+		}
 	],
 	"start_url": "./index.html",
 	"display": "standalone",

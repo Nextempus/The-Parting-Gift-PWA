@@ -37,6 +37,7 @@ self.oninstall = function(event){
 				console.log(error);
 			})
 		);
+		
 };
 
 //Set the callback for every fetch action
